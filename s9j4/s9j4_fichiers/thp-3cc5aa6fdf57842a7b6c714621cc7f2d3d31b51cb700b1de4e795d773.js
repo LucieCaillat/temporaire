@@ -1,0 +1,1 @@
+undefined===window.THP&&(window.THP={}),window.THP.environment="production",undefined===window.THP.Stripe&&(window.THP.Stripe={}),window.THP.Stripe.publishable_key="pk_test_WvjlgflIvtq8HTlVqRbMv6sH";
